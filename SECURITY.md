@@ -2,15 +2,12 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The latest version of your project is `1.2` according to the `README.md`.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.2.x   | :white_check_mark: |
+| < 1.2   | :x:                |
 
 ## Reporting a Vulnerability
 
